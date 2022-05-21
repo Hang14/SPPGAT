@@ -6,7 +6,7 @@ This repository is the source code for the paper 'Semantics from Look and Sound:
 ## Steps to run the code
 1. Build env with requirement.txt;
 2. Download the BERT model '[chinese_L-12_H-768_A-12][2]' and change the path in config file;
-3. Download the data from '[Weibo][2]'
+3. Download the data from '[Weibo][2]' and change the path in config file;
 4. Run:
 ```
 bash script/run_weibo.sh
