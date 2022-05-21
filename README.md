@@ -1,6 +1,6 @@
 # SPPGAT
 
-This repository is the source code for the paper'Semantics from Look and Sound: Learning Chinese Character Representations from Function-Specific Components and Pronunciations'.
+This repository is the source code for the paper 'Semantics from Look and Sound: Learning Chinese Character Representations from Function-Specific Components and Pronunciations'.
 
 
 ## Steps to run the code
